@@ -1,7 +1,6 @@
-# Civilian-Victimization-Research
+# Civilian Victimization Research
 
-## A SOCIAL CONTROL THEORY: BRIDGING THE INFORMATION-VIOLENCE GAP: HOW CAN INFORMATION PROVISION AFFECT STATES’ TENDENCY TOWARD
-VIOLENCE AGAINST CIVILIANS?
+## A SOCIAL CONTROL THEORY: BRIDGING THE INFORMATION-VIOLENCE GAP: HOW CAN INFORMATION PROVISION AFFECT STATES’ TENDENCY TOWARD VIOLENCE AGAINST CIVILIANS?
 
 In this research, I argue that “social control” over
 the population offers the potential to dramatically change the environment in which all of the actors
